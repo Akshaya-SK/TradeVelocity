@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TradeVelocity(React + Flask + Chart.js + WebSockets)
 
 A starter production-ready project scaffold for a live stock trading dashboard. Frontend is React (Vite) with Redux and Chart.js. Backend is Flask with Flask-SocketIO and SQLAlchemy (SQLite). Styling uses pure CSS with a dark/light toggle.
@@ -56,3 +57,6 @@ Vite dev server starts at `http://localhost:5173`.
 ## File structure
 See the tree in the original project spec. Start the backend first, then the frontend.
 
+=======
+# TradeVelocity
+>>>>>>> 0738c4e7f4922b7737a8947a2a2a240ffc2c1dcc
